@@ -17,7 +17,7 @@ I'm a passionate DevOps and Cloud enthusiast who loves to explore and share know
 
 Feel free to reach out if you want to discuss DevOps, Cloud, or just have a friendly chat:
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-username)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohd-shahid-mohd/)
 
 ### ☕️ Buy Me a Coffee:
 
