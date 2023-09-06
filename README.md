@@ -24,7 +24,7 @@ Feel free to reach out if you want to discuss DevOps, Cloud, or just have a frie
 
 If you find my content valuable or just want to show your support, you can buy me a coffee. Your support keeps me fueled and motivated to create more content!
 
-<a href="https://www.buymeacoffee.com/shahid1995g"><img src="https://img.buymeacoffee.com/button-api/?username=shahid1995g&show_product=false" alt="Buy me a coffee"></a>
+<a href="https://www.buymeacoffee.com/shahid1995g"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ### 📚 Check Out My Work:
 
