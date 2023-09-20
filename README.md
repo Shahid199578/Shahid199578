@@ -31,6 +31,6 @@ Explore some of my projects and writings related to DevOps and Cloud:
 
 - [Project 1](https://github.com/Shahid199578/ArchiveMavenArtifact)
 - [Project 2](https://github.com/Shahid199578/sonarqube_integration_with_jenkins)
-- [Blog Posts](https://cloudmantra.hashnode.dev/)
+- [Blog Posts](https://mantratech.hashnode.dev/)
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
