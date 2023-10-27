@@ -191,11 +191,12 @@ Explore some of my projects and writings related to DevOps and Cloud:
 <img src="https://noname.work/wp-content/uploads/2019/04/ECS_icon.png" alt="AWS ECS" width="40"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://acloudxpert.com/wp-content/uploads/2020/04/Amazon-Elastic-Kubernetes-Service@4x.png" alt="AWS EKS" width="40"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://acloudxpert.com/wp-content/uploads/2020/04/Amazon-EC2-Container-Registry@4x.png" alt="AWS ECR" width="40"> 
 
 </p>
-
-
-
   </details>
   
 </details>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahid199578&show_icons=true&locale=en&layout=compact" alt="Shahid199578" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahid199578&show_icons=true&locale=en" alt="Shahid199578" /></p>
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
