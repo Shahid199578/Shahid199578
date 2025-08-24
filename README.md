@@ -47,7 +47,7 @@ Explore some of my projects and writings related to DevOps and Cloud:
 ## Trophies:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shahid199578" alt="Shahid199578" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <details>
@@ -63,7 +63,7 @@ Explore some of my projects and writings related to DevOps and Cloud:
 
 <p align="center"><img align="center"
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahid199578&show_icons=true&theme=radical)
+![Shahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahid199578&show_icons=true&theme=radical)
 
 </p>
 
