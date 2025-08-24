@@ -47,6 +47,7 @@ Explore some of my projects and writings related to DevOps and Cloud:
 ## Trophies:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shahid199578" alt="Shahid199578" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <details>
